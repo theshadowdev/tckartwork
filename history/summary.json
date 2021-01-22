@@ -19,20 +19,20 @@
   },
   {
     "name": "Admin",
-    "url": "https://admin.tckartwork.xyz",
+    "url": "https://admin.tckartwork.xyz/upptime",
     "icon": "https://favicons.githubusercontent.com/admin.tckartwork.xyz",
     "slug": "admin",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 179,
-    "timeDay": 179,
-    "timeWeek": 179,
-    "timeMonth": 179,
-    "timeYear": 179,
+    "time": 197,
+    "timeDay": 197,
+    "timeWeek": 197,
+    "timeMonth": 197,
+    "timeYear": 197,
     "dailyMinutesDown": {}
   }
 ]
