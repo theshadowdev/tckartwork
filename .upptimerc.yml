@@ -7,10 +7,7 @@ sites:
   - name: tckartwork.xyz
     url: https://www.tckartwork.xyz
   - name: Admin
-    url: https://admin.tckartwork.xyz
-    expectedStatusCodes:
-      - 200
-      - 401
+    url: https://admin.tckartwork.xyz/upptime
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
