@@ -22,17 +22,17 @@
     "url": "https://admin.tckartwork.xyz/upptime",
     "icon": "https://favicons.githubusercontent.com/admin.tckartwork.xyz",
     "slug": "admin",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 254,
-    "timeDay": 326,
+    "time": 253,
+    "timeDay": 296,
     "timeWeek": 241,
-    "timeMonth": 254,
-    "timeYear": 254,
+    "timeMonth": 253,
+    "timeYear": 253,
     "dailyMinutesDown": {}
   }
 ]
