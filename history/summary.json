@@ -5,14 +5,14 @@
     "icon": "https://favicons.githubusercontent.com/www.tckartwork.xyz",
     "slug": "tckartwork-xyz",
     "status": "up",
-    "uptime": "32.28%",
+    "uptime": "32.62%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "96.08%",
-    "uptimeYear": "32.28%",
+    "uptimeMonth": "99.37%",
+    "uptimeYear": "32.62%",
     "time": 248,
-    "timeDay": 358,
-    "timeWeek": 214,
+    "timeDay": 196,
+    "timeWeek": 223,
     "timeMonth": 219,
     "timeYear": 248,
     "dailyMinutesDown": {
@@ -169,7 +169,7 @@
     "time": 216,
     "timeDay": 0,
     "timeWeek": 0,
-    "timeMonth": 118,
+    "timeMonth": 0,
     "timeYear": 216,
     "dailyMinutesDown": {}
   }
