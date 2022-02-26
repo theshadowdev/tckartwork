@@ -5,16 +5,16 @@
     "icon": "https://favicons.githubusercontent.com/www.tckartwork.xyz",
     "slug": "tckartwork-xyz",
     "status": "down",
-    "uptime": "29.21%",
+    "uptime": "29.38%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "22.69%",
+    "uptimeYear": "22.77%",
     "time": 247,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 218,
+    "timeYear": 217,
     "dailyMinutesDown": {
       "2022-01-06": 566,
       "2022-01-05": 1440,
@@ -299,8 +299,7 @@
       "2021-03-02": 1440,
       "2021-03-01": 1440,
       "2021-02-28": 1440,
-      "2021-02-27": 1440,
-      "2021-02-26": 1440
+      "2021-02-27": 1440
     }
   },
   {
